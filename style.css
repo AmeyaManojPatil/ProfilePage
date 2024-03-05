@@ -1,0 +1,52 @@
+body{
+  background-color: sandybrown;
+  font-family:"Segoe UI";
+  /* use colours like yellow/orange/blue/green(danny)*/
+  
+
+  
+}
+.name {
+  background-color: lightyellow;
+  color: #000000;
+  padding: 10px;
+  border:1px solid black;
+  font-family:"Segoe UI";
+}
+.about{
+  background-color: lightyellow;
+  color: #000000;
+  padding: 10px;
+  border:1px solid black;
+  font-family:"Segoe UI";
+  margin-top: 10px;
+}
+table{
+  border: 3px solid black;
+  font-family:"Segoe UI";
+}
+td, th {
+  border-right: 2px solid black;
+  
+}
+td, th {
+    border-bottom: 2px solid black;
+}
+.education{
+  background-color: lightyellow;
+  color: #000000;
+  padding: 10px;
+  border:1px solid black;
+  font-family:"Segoe UI";
+  margin-top: 10px;
+  
+}
+.activity{
+  background-color: lightyellow;
+  color: #000000;
+  padding: 10px;
+  border:1px solid black;
+  font-family:"Segoe UI";
+  margin-top: 10px;
+
+}
